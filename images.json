@@ -1,0 +1,11 @@
+[{
+    "name": "filename.jpg",
+    "size": "12345",
+    "type": "image/jpeg"
+  },
+{
+  "name": "filename2.jpg",
+  "size": "2334",
+  "type": "image/jpeg"
+}]
+  
